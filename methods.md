@@ -1,1 +1,4 @@
 Methods
+
+(1) trim adapters
+(2) quality-based trimming
